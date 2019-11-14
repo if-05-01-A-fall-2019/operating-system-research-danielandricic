@@ -1,0 +1,7 @@
+root@andri-VirtualBox:/root# ls -al
+total 20
+drwx------  3 root root 4096 Aug  5 21:09 .
+drwxr-xr-x 24 root root 4096 Okt 21 14:20 ..
+-rw-r--r--  1 root root 3106 Apr  9  2018 .bashrc
+drwx------  2 root root 4096 Aug  5 21:04 .cache
+-rw-r--r--  1 root root  148 Aug 17  2015 .profile

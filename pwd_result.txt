@@ -1,0 +1,2 @@
+root@andri-VirtualBox:~# pwd
+/home/andri
